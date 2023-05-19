@@ -1,4 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atanas Atanasov=======================================================================================================================================.NET Web Developer------------------I love coding* 🌍  I'm based in Bulgaria.* ✉️  You can contact me at [atanas123atanasov@gmail.com](mailto:atanas123atanasov@gmail.com)* 🚀  I'm currently working on [Mappy](http://github.com/UniversityPoi)* 🧠  I'm learning anything that encounters me.* 🤝  I'm open to collaborating on anything.* ⚡  Last year University student. Hire me before is still late.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atanas Atanasov
+=======================================================================================================================================
+
+.NET Web Developer
+------------------
+
+I love coding.
+
+*   🌍  I'm based in Bulgaria.
+*   ✉️  You can contact me at [atanas123atanasov@gmail.com](mailto:atanas123atanasov@gmail.com)
+*   🚀  I'm currently working on [Mappy](http://github.com/UniversityPoi)
+*   🧠  I'm learning anything that encounters me.
+*   🤝  I'm open to collaborating on anything.
+*   ⚡  Last year University student. Hire me before is still late.
 
 <a href="https://www.github.com/Poisy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Poisy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
