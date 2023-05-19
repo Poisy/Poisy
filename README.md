@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Web Developer
 ------------------
 
+[![](https://visitcount.itsvg.in/api?id=Poisy&label=Hello%20visitor%20%E2%84%96%3A&color=0&icon=4&pretty=true)](https://visitcount.itsvg.in)
+
 I love coding.
 
 *   🌍  I'm based in Bulgaria.
@@ -12,6 +14,7 @@ I love coding.
 *   🧠  I'm learning anything that encounters me.
 *   🤝  I'm open to collaborating on anything.
 *   ⚡  Last year University student. Hire me before is still late.
+
 
 <a href="https://www.github.com/Poisy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Poisy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
